@@ -50,9 +50,18 @@
     <ellipse rx="170" ry="200" cx="700" cy="850" fill="red"/>
       <circle r="50" cx="600" cy="1000" fill="black"/>
       <circle r="50" cx="800" cy="1000" fill="black"/>
-      <circle r="100" cx="900" cy="950" fill="#a55b2a"/>
+      <circle r="100" cx="900" cy="950" fill="#a55b2a">
+         <animate
+      attributeName="cx"
+      begin="0s"
+      dur="1s"
+      values="900;920;900"
+      repeatCount="indefinite" />
+        </circle>
+
       <circle r="40" cx="870" cy="850" fill="wheat"/>
       <circle r="40" cx="530" cy="850" fill="wheat"/>
+      <polygon points="830,810 870,790 870,850" style="fill:#a55b2a"/>
       <circle r="120" cx="700" cy="600" fill="wheat"/>
       <polygon points="600,670 800,670 700,900" style="fill:white"/>
       <rect width="200" height="40" x="600" y="500" style="fill:white; stroke-width:3; stroke:black"/>
