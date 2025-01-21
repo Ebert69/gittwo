@@ -60,6 +60,8 @@
       <ellipse rx="25" ry="30" cx="670" cy="600" fill="white"/>
       <ellipse rx="25" ry="30" cx="730" cy="600" fill="white"/>
       <ellipse rx="40" ry="30" cx="700" cy="640" fill="#ac0452"/>
+        <animate attributeName="fill" from="#ac0452" to="green" dur="2s" repeatCount="indefinite"/>
+      </ellipse>
       <circle r="10" cx="670" cy="600" fill="black"/>
       <circle r="10" cx="730" cy="600" fill="black"/>
      

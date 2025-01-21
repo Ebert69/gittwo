@@ -11,6 +11,10 @@ class Hexagon{
     'v_3_y' : 0.5,
     'v_4_x' : 1,
     'v_4_y' : 2,
+    'v_5_x' : -1.819,
+    'v_5_y' : 0.5,
+    'v_6_x' : -1.819,
+    'v_6_y' : -0.5
   };
   var koordinaten_liste = [];
 
