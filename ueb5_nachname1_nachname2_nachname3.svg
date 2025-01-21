@@ -46,7 +46,6 @@
       dur="4s" repeatCount="indefinite"/>
   </polygon>
 
-  <!-- My Code!-->
   <g id="mensch">
     <ellipse rx="170" ry="200" cx="700" cy="850" fill="red"/>
       <circle r="50" cx="600" cy="1000" fill="black"/>
@@ -56,8 +55,13 @@
       <circle r="120" cx="700" cy="600" fill="wheat"/>
       <polygon points="600,670 800,670 700,900" style="fill:white"/>
       <rect width="200" height="40" x="600" y="500" style="fill:white; stroke-width:3; stroke:black"/>
-      <path id="muetze_1" d="M 600 500 q 50 -200 200 -200" stroke="black" />
-      <path id="muetze_2" d="M 800 300 q -50 100 0 200" stroke="blue" />
-      <path id="muetze_3" d="M 800 500 L 600 500" stroke="red"/>
+      <path id="muetze_1" d="M 600 500 q 50 -200 200 -200 q -50 100 0 200 Z" fill="red" />
+      <circle r="30" cx="800" cy="300" fill="white"/>
+      <ellipse rx="25" ry="30" cx="670" cy="600" fill="white"/>
+      <ellipse rx="25" ry="30" cx="730" cy="600" fill="white"/>
+      <ellipse rx="40" ry="30" cx="700" cy="640" fill="#ac0452"/>
+      <circle r="10" cx="670" cy="600" fill="black"/>
+      <circle r="10" cx="730" cy="600" fill="black"/>
+     
   </g>
 </svg>
