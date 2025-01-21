@@ -50,6 +50,7 @@
     <ellipse rx="170" ry="200" cx="700" cy="850" fill="red"/>
       <circle r="50" cx="600" cy="1000" fill="black"/>
       <circle r="50" cx="800" cy="1000" fill="black"/>
+      <circle r="100" cx="900" cy="950" fill="#a55b2a"/>
       <circle r="40" cx="870" cy="850" fill="wheat"/>
       <circle r="40" cx="530" cy="850" fill="wheat"/>
       <circle r="120" cx="700" cy="600" fill="wheat"/>
@@ -59,11 +60,12 @@
       <circle r="30" cx="800" cy="300" fill="white"/>
       <ellipse rx="25" ry="30" cx="670" cy="600" fill="white"/>
       <ellipse rx="25" ry="30" cx="730" cy="600" fill="white"/>
-      <ellipse rx="40" ry="30" cx="700" cy="640" fill="#ac0452"/>
-        <animate attributeName="fill" from="#ac0452" to="green" dur="2s" repeatCount="indefinite"/>
+      <ellipse rx="40" ry="30" cx="700" cy="640" fill="#ac0452">
+        <animate attributeName="fill" from="#ac0452" to="red" dur="1s" repeatCount="indefinite"/>
       </ellipse>
       <circle r="10" cx="670" cy="600" fill="black"/>
       <circle r="10" cx="730" cy="600" fill="black"/>
+      
      
   </g>
 </svg>
