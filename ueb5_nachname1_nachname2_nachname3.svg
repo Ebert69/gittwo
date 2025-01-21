@@ -24,6 +24,308 @@
 
   <rect x="0" y="0" width="1920" height="1080" fill="url(#the_sky)"/>
 
+<g id="sterne">
+<polygon id="star0" points="64,892
+   30,903
+   4,926
+   10,892
+   3,857
+   30,880" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 24 892" to="360 24 892"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star1" points="131,858
+   114,863
+   109,880
+   103,863
+   87,858
+   103,852
+   109,836
+   114,852" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 109 858" to="360 109 858"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star2" points="142,373
+   109,381
+   110,415
+   92,387
+   60,399
+   82,373
+   60,346
+   92,358
+   110,330
+   109,364" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 97 373" to="360 97 373"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star3" points="91,151
+   70,155
+   76,176
+   62,160
+   47,176
+   53,155
+   33,151
+   53,146
+   47,125
+   62,141
+   76,125
+   70,146" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 62 151" to="360 62 151"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star4" points="72,890
+   60,892
+   65,903
+   56,895
+   51,906
+   51,894
+   39,897
+   49,890
+   39,882
+   51,885
+   51,873
+   56,884
+   65,876
+   60,887" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 55 890" to="360 55 890"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star5" points="72,507
+   63,508
+   68,515
+   61,510
+   60,519
+   58,510
+   51,515
+   56,508
+   48,507
+   56,505
+   51,498
+   58,503
+   60,495
+   61,503
+   68,498
+   63,505" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 60 507" to="360 60 507"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star6" points="34,275
+   20,277
+   29,287
+   17,280
+   17,294
+   12,281
+   4,292
+   8,279
+   -4,281
+   7,275
+   -4,268
+   8,270
+   3,257
+   12,268
+   17,255
+   17,269
+   29,262
+   20,272" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 14 275" to="360 14 275"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star7" points="43,405
+   34,406
+   40,412
+   33,408
+   34,416
+   31,409
+   27,416
+   28,408
+   21,412
+   27,406
+   19,405
+   27,403
+   21,397
+   28,401
+   27,393
+   31,401
+   34,393
+   33,401
+   40,397
+   34,403" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 31 405" to="360 31 405"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star8" points="113,598
+   84,601
+   106,620
+   80,608
+   88,636
+   72,611
+   65,639
+   65,610
+   43,629
+   59,605
+   30,609
+   57,598
+   30,586
+   59,590
+   43,566
+   65,585
+   65,556
+   72,584
+   88,559
+   80,587
+   106,575
+   84,594" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 71 598" to="360 71 598"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star9" points="139,511
+   106,515
+   132,535
+   102,522
+   115,552
+   95,526
+   91,559
+   86,526
+   67,552
+   79,522
+   49,535
+   75,515
+   43,511
+   75,506
+   49,487
+   79,499
+   66,469
+   86,495
+   90,463
+   95,495
+   114,469
+   102,499
+   132,487
+   106,506" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 91 511" to="360 91 511"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star10" points="56,311
+   41,312
+   53,321
+   39,315
+   46,329
+   36,317
+   36,332
+   33,318
+   26,331
+   29,317
+   17,325
+   27,314
+   12,316
+   26,311
+   12,305
+   27,307
+   17,296
+   29,304
+   26,290
+   33,303
+   36,289
+   36,304
+   46,292
+   39,306
+   53,300
+   41,309" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 34 311" to="360 34 311"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<polygon id="star11" points="61,767
+   50,768
+   59,773
+   49,770
+   54,779
+   47,771
+   48,782
+   45,772
+   41,782
+   42,771
+   35,779
+   40,770
+   30,773
+   39,768
+   29,767
+   39,765
+   30,760
+   40,763
+   35,754
+   42,762
+   41,751
+   45,761
+   48,751
+   47,762
+   54,754
+   49,763
+   59,760
+   50,765" fill="#ffd700">     <animateTransform attributeName="transform" type="rotate"
+      from="0 45 767" to="360 45 767"
+      dur="4s" repeatCount="indefinite"/>
+     </polygon>
+<use xlink:href="#star0" transform="translate(0, 0) scale(1.747233182263763) "/>
+<use xlink:href="#star1" transform="translate(30, 0) scale(2.137995312032502) "/>
+<use xlink:href="#star2" transform="translate(60, 0) scale(2.185166334481079) "/>
+<use xlink:href="#star3" transform="translate(90, 0) scale(0.6051665776194621) "/>
+<use xlink:href="#star4" transform="translate(120, 0) scale(1.9947856186652693) "/>
+<use xlink:href="#star5" transform="translate(150, 0) scale(2.3998313942726153) "/>
+<use xlink:href="#star6" transform="translate(180, 0) scale(1.8485187642073877) "/>
+<use xlink:href="#star7" transform="translate(210, 0) scale(2.3431694671981003) "/>
+<use xlink:href="#star8" transform="translate(240, 0) scale(1.9283729302836599) "/>
+<use xlink:href="#star9" transform="translate(270, 0) scale(1.9313976028318636) "/>
+<use xlink:href="#star10" transform="translate(300, 0) scale(1.532214008578884) "/>
+<use xlink:href="#star11" transform="translate(330, 0) scale(1.1530949851462766) "/>
+<use xlink:href="#star0" transform="translate(360, 0) scale(1.9659387053954809) "/>
+<use xlink:href="#star1" transform="translate(390, 0) scale(1.5039649310410907) "/>
+<use xlink:href="#star2" transform="translate(420, 0) scale(2.4874867620322503) "/>
+<use xlink:href="#star3" transform="translate(450, 0) scale(0.7433264617678164) "/>
+<use xlink:href="#star4" transform="translate(480, 0) scale(0.8552674636250444) "/>
+<use xlink:href="#star5" transform="translate(510, 0) scale(1.4288550750566087) "/>
+<use xlink:href="#star6" transform="translate(540, 0) scale(2.0935093743160516) "/>
+<use xlink:href="#star7" transform="translate(570, 0) scale(0.7342040878417089) "/>
+<use xlink:href="#star8" transform="translate(600, 0) scale(0.5841527130265438) "/>
+<use xlink:href="#star9" transform="translate(630, 0) scale(2.3559535780490917) "/>
+<use xlink:href="#star10" transform="translate(660, 0) scale(2.3442117290559743) "/>
+<use xlink:href="#star11" transform="translate(690, 0) scale(1.9339750774984539) "/>
+<use xlink:href="#star0" transform="translate(720, 0) scale(1.4985385518341532) "/>
+<use xlink:href="#star1" transform="translate(750, 0) scale(1.7359497713286627) "/>
+<use xlink:href="#star2" transform="translate(780, 0) scale(0.67627512221394) "/>
+<use xlink:href="#star3" transform="translate(810, 0) scale(2.3821954624032484) "/>
+<use xlink:href="#star4" transform="translate(840, 0) scale(2.3872819750432663) "/>
+<use xlink:href="#star5" transform="translate(870, 0) scale(2.4614641282203906) "/>
+<use xlink:href="#star6" transform="translate(900, 0) scale(0.772999959622821) "/>
+<use xlink:href="#star7" transform="translate(930, 0) scale(2.3540793534423696) "/>
+<use xlink:href="#star8" transform="translate(960, 0) scale(1.3144790437706122) "/>
+<use xlink:href="#star9" transform="translate(990, 0) scale(1.8092485601779549) "/>
+<use xlink:href="#star10" transform="translate(1020, 0) scale(1.7273458816009237) "/>
+<use xlink:href="#star11" transform="translate(1050, 0) scale(1.8322017251677665) "/>
+<use xlink:href="#star0" transform="translate(1080, 0) scale(0.7502708838134833) "/>
+<use xlink:href="#star1" transform="translate(1110, 0) scale(2.492378273320979) "/>
+<use xlink:href="#star2" transform="translate(1140, 0) scale(1.9197898924497558) "/>
+<use xlink:href="#star3" transform="translate(1170, 0) scale(1.1214813548917764) "/>
+<use xlink:href="#star4" transform="translate(1200, 0) scale(1.088532023138403) "/>
+<use xlink:href="#star5" transform="translate(1230, 0) scale(0.6631241100016929) "/>
+<use xlink:href="#star6" transform="translate(1260, 0) scale(2.262151667850592) "/>
+<use xlink:href="#star7" transform="translate(1290, 0) scale(0.9180252874054702) "/>
+<use xlink:href="#star8" transform="translate(1320, 0) scale(0.8295084771652441) "/>
+<use xlink:href="#star9" transform="translate(1350, 0) scale(2.3728846097269947) "/>
+<use xlink:href="#star10" transform="translate(1380, 0) scale(1.4718971359678177) "/>
+<use xlink:href="#star11" transform="translate(1410, 0) scale(0.5093169013314454) "/>
+<use xlink:href="#star0" transform="translate(1440, 0) scale(1.652673381753817) "/>
+<use xlink:href="#star1" transform="translate(1470, 0) scale(1.0652442233370052) "/>
+<use xlink:href="#star2" transform="translate(1500, 0) scale(0.8727157491056519) "/>
+<use xlink:href="#star3" transform="translate(1530, 0) scale(1.9595578312725657) "/>
+<use xlink:href="#star4" transform="translate(1560, 0) scale(0.5940537767427825) "/>
+<use xlink:href="#star5" transform="translate(1590, 0) scale(2.4418060024459463) "/>
+<use xlink:href="#star6" transform="translate(1620, 0) scale(0.8796339815310836) "/>
+<use xlink:href="#star7" transform="translate(1650, 0) scale(0.734972403530527) "/>
+<use xlink:href="#star8" transform="translate(1680, 0) scale(1.477719187397145) "/>
+<use xlink:href="#star9" transform="translate(1710, 0) scale(1.2537718206756243) "/>
+<use xlink:href="#star10" transform="translate(1740, 0) scale(1.7177811397305789) "/>
+<use xlink:href="#star11" transform="translate(1770, 0) scale(1.141711891923474) "/>
+</g>
   <g id="forest">
     <use xlink:href="#tree" fill="black" transform="translate(0200, 600) scale(0.8)"/>
     <use xlink:href="#tree" fill="white" transform="translate(0100, 570) scale(0.8)"/>
